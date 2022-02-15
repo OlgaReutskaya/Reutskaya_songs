@@ -32,7 +32,10 @@
 И в награду исполню - все желания твои!
 
 +++++++++)))))):::::::::;;;;;;!!!!!!!!!!
-feature feature feature feature feature
+feature feature featur
+
+
+git confl solv feature
 
 
 
